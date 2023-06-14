@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\lab02\lab02.csproj" />
+  </ItemGroup>
+
 </Project>
